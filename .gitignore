@@ -2,3 +2,4 @@
 env/
 static/rest_framework/
 *.pyc
+venv/
